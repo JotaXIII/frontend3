@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/supermercado-juan-osega-pfy2202/',
+  base: '/frontend3/',
 });

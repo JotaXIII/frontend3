@@ -30,8 +30,8 @@ Aplicación de gestión de inventario y carrito de compras desarrollada con Reac
 ## Instalación
 
 ```bash
-git clone https://github.com/JotaXIII/supermercado-juan-osega-pfy2202.git
-cd supermercado-juan-osega-pfy2202
+git clone https://github.com/JotaXIII/frontend3.git
+cd frontend3
 npm install
 ```
 
